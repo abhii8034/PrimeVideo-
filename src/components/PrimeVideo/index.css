@@ -1,0 +1,22 @@
+.prime-video-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.prime-video-image {
+  height: 45vh;
+}
+
+.movies-list-container {
+  background-color: black;
+  padding: 40px;
+  padding-top: 0;
+}
+
+.movie-heading {
+  color: #ffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
